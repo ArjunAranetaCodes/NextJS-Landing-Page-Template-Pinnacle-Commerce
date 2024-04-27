@@ -113,9 +113,9 @@ const Faq = () => {
         </summary>
 
         <p className="mt-4 px-4 leading-relaxed text-gray-700">
-          We're so confident in the transformative power of our sales platform
-          that we offer a 100% satisfaction guarantee. If you're not completely
-          satisfied with the results within the first 90 days, we'll provide a
+          We&apos;re so confident in the transformative power of our sales platform
+          that we offer a 100% satisfaction guarantee. If you&apos;re not completely
+          satisfied with the results within the first 90 days, we&apos;ll provide a
           full refund, no questions asked.
         </p>
       </details>
