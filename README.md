@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next-JS-Landing-Page-Template
+## Pinnacle Commerce
+Free NextJS Landing Page Template written in Next.js, Tailwind CSS 3, TypeScript, React, Framer, ESLint, Prettier, VSCode, PostCSS
 
-## Getting Started
+## Demo
+[https://next-js-landing-page-template-pinnacle-commerce.vercel.app/](https://next-js-landing-page-template-pinnacle-commerce.vercel.app/)
+![](/public/images/snap.png)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Features
+* Built with modern TypeScript, using frameworks NextJS, React.
+* Styled with TailwindCSS
+* Framer Animations
+
+## 🔧 How to Setup and Run
+
+<ol>
+<li>Clone the repository:</li>
+<br/>
+
+```
+git clone https://github.com/ArjunAranetaCodes/NextJS-Landing-Page-Template-Pinnacle-Commerce.git
+
+cd NextJS-Landing-Page-Template-Pinnacle-Commerce
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<li>Ensure Node 16 or higher:</li>
+<br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
+nvm install
+node --version
+```
 
-## Learn More
+<li>Install dependencies:</li>
+<br/>
 
-To learn more about Next.js, take a look at the following resources:
+```
+npm install
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<li>Start the app:</li>
+<br/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
+npm run dev
+```
 
-## Deploy on Vercel
+</ol>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The application run at [http://localhost:3000/](http://localhost:3000/).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contributions
+Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
